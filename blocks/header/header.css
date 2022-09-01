@@ -12,3 +12,11 @@
     max-width: 928px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .header {
+    max-width: 720px;
+    padding-right: 24px;
+    padding-left: 34px;
+  }
+}

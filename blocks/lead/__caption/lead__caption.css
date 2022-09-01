@@ -11,3 +11,9 @@
   margin-top: 8px;
   white-space: nowrap;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}
