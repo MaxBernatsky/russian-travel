@@ -20,3 +20,12 @@
     padding-bottom: 88px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .lead {
+    max-width: 320px;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-bottom: 64px;
+  }
+}

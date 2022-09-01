@@ -17,5 +17,16 @@
     padding-top: 88px;
     padding-right: 24px;
     padding-left: 24px;
+    padding-bottom: 90px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places {
+    max-width: 320px;
+    padding-top: 64px;
+    padding-right: 16;
+    padding-left: 16;
+    padding-bottom: 0;
   }
 }
