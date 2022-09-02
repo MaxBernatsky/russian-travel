@@ -1,23 +1,15 @@
 # Проект: Путешествие по России
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+Одностраничный учебный проект с адаптивом под разрешения и файловой структурой БЭМ (Nested):
 
-**Интро**
+- 1024px
+- 768px
+- 320px
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+### :hammer_and_wrench: Technology :
 
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" atl="vscode" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" atl="html5" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" atl="css3" width="40" height="40">
+</div>
