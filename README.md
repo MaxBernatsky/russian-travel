@@ -6,6 +6,8 @@
 - 768px
 - 320px
 
+Ссылка на проект - [https://maxbernatsky.github.io/russian-travel/]
+
 ### :hammer_and_wrench: Technology :
 
 <div>
