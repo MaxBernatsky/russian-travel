@@ -6,10 +6,22 @@
   column-gap: 18px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 665px) {
+  .footer__links {
+    column-gap: 10px;
+  }
+}
+
+@media screen and (max-width: 470px) {
   .footer__links {
     flex-direction: column;
     column-gap: 0;
+    row-gap: 20px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__links {
     row-gap: 32px;
   }
 }

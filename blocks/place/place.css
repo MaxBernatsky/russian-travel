@@ -28,12 +28,19 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 665px) {
   .place {
-    max-width: 320px;
+    max-width: 665px;
     grid-template-columns: 1fr;
     column-gap: 0;
     row-gap: 32px;
+    padding-top: 120px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place {
+    max-width: 320px;
     padding-top: 50px;
   }
 }

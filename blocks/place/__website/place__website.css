@@ -4,3 +4,17 @@
   justify-content: flex-end;
   align-items: flex-start;
 }
+
+@media screen and (max-width: 665px) {
+  .place__website {
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__website {
+    justify-content: flex-end;
+    align-items: flex-start;
+  }
+}

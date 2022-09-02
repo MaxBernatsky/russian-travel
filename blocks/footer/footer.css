@@ -21,9 +21,18 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 470px) {
   .footer {
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    justify-content: stretch;
+    align-items: stretch;
     max-width: 186px;
     padding-top: 64px;
     padding-right: 118px;
