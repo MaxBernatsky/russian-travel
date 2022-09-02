@@ -25,8 +25,8 @@
   .places {
     max-width: 320px;
     padding-top: 64px;
-    padding-right: 16;
-    padding-left: 16;
-    padding-bottom: 0;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-bottom: 66px;
   }
 }
