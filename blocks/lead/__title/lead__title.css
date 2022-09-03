@@ -11,10 +11,10 @@
   margin: 0;
 }
 
-@media screen and (max-width: 665px) {
+@media screen and (max-width: 675px) {
   .lead__title {
-    font-size: 80px;
-    line-height: calc(90 / 80);
+    font-size: 65px;
+    line-height: calc(80 / 65);
   }
 }
 
@@ -22,6 +22,13 @@
   .lead__title {
     font-size: 55px;
     line-height: calc(70 / 55);
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .lead__title {
+    font-size: 45px;
+    line-height: calc(65 / 45);
   }
 }
 
