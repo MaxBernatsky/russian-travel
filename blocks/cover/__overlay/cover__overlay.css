@@ -6,6 +6,7 @@
   text-decoration: none;
   aspect-ratio: 16/10;
   background-color: rgba(42, 44, 47, 0.3);
+  transition: background-color .8s ease-out;
 }
 
 .cover__overlay:hover {

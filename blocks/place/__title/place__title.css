@@ -33,6 +33,7 @@
 @media screen and (max-width: 320px) {
   .place__title {
     max-width: 288px;
+    padding-left: 16px;
     text-align: left;
     font-size: 32px;
     line-height: calc(35 / 32);

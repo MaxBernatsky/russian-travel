@@ -6,6 +6,7 @@
   line-height: calc(28 / 24);
   color: #fff;
   text-decoration: none;
+  transition: opacity .8s ease-out;
 }
 
 .header__lang-link:hover {

@@ -5,6 +5,7 @@
   font-size: 18px;
   line-height: calc(22 / 18);
   color: #fff;
+  transition: opacity .8s ease-out;
 }
 
 .place__link:hover {

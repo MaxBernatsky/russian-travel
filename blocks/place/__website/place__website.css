@@ -16,5 +16,6 @@
   .place__website {
     justify-content: flex-end;
     align-items: flex-start;
+    padding-left: 16px;
   }
 }
